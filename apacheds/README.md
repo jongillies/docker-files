@@ -5,7 +5,7 @@ apacheds_docker
 
 This project run ApacheDS in a docker container with an Oracle Java 7 environment.
 
-This poject was cloned from pjjhuges57](https://registry.hub.docker.com/u/jjhughes57/apacheds-docker/)
+This poject was cloned from [jjhuges57](https://registry.hub.docker.com/u/jjhughes57/apacheds-docker/)
 
 This clone adds the following objects to the dc=example,dc=com container:
 
